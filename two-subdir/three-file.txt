@@ -1,1 +1,2 @@
 Text for three-file.txt two-subdir
+Add text for three-file.txt
