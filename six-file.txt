@@ -1,1 +1,2 @@
 Add text in six-file.txt in development-branch
+Add text local for push
