@@ -1,1 +1,2 @@
 Text for four-file.txt two-subdir
+Add text for four-file.txt two-subdir on up-branch
