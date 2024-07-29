@@ -1,2 +1,3 @@
 Text for one-file.txt one-subdir
 Add for one-file.txt one-subdir on up-branch
+Add text for commit push
